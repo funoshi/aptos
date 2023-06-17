@@ -1,12 +1,4 @@
-<p style="font-size:14px" align="right">
-<a href="https://hetzner.cloud/?ref=y8pQKS2nNy7i" target="_blank">Deploy your VPS using our referral link to get 20€ bonus <img src="https://user-images.githubusercontent.com/50621007/174612278-11716b2a-d662-487e-8085-3686278dd869.png" width="30"/></a>
-</p>
-
-<p align="center">
-  <img width="100" height="auto" src="https://user-images.githubusercontent.com/50621007/165930080-4f541b46-1ae3-461c-acc9-de72d7ab93b7.png">
-</p>
-
-# Aptos fullnode setup for Devnet
+# Aptos fullnode setup
 
 Official documents:
 
